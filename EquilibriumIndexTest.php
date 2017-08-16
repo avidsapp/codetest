@@ -13,7 +13,7 @@ class EquilibriumIndex extends TestCase
 		$this->assertEquals(array(3,6), getEquilibriums($arr));
 
     # extra output for thoroughness
-    echo "\nEquilibrium Indexes include:\n";
-    foreach (getEquilibriums($arr) as $r) echo "arr[$r] ";
+    echo "\nEquilibrium Indexes include:";
+    foreach (getEquilibriums($arr) as $r) echo "\narr[$r]";
 	}
 }
