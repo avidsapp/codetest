@@ -22,5 +22,5 @@ function getEquilibriums($arr) {
       $leftSum += $value;
   }
 
-	return $output;
+  return $output;
 }
