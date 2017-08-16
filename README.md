@@ -6,22 +6,22 @@ An equilibrium index of a sequence is an index into the sequence such that the s
 
 For example, in a sequence   **_A_**:
 
-A[0] = − 7 <br/>
-A[1] = 1 <br/>
-A[2] = 5 <br/>
-A[3] = 2 <br/>
-A[4] = -4 <br/>
-A[5] = 3 <br/>
-A[6] = 0 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[0] = − 7 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[1] = 1 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[2] = 5 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[3] = 2 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[4] = -4 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[5] = 3 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[6] = 0 <br/>
 
 3   is an equilibrium index, because:
 
-A[0] + A[1] + A[2] = A[4] + A[5] + A[6]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[0] + A[1] + A[2] = A[4] + A[5] + A[6]
 
 6   is also an equilibrium index, because:
 
-A[0] + A[1] + A[2] + A[4] + A[5] = 0 <br/>
-(sum of zero elements is zero)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A[0] + A[1] + A[2] + A[4] + A[5] = 0 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(sum of zero elements is zero)
 
 ## Notes
 
